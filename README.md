@@ -6,4 +6,7 @@ This repository contains solutions for lab exercises.
 
 
 **Table of Contents**
-
+<ul>
+  <li>[Tamagotchi](https://github.com/wtznc/Principles-and-Applications-of-Programming-CPP/tree/master/Tamagotchi)</li>
+  <li>[Pixel pushing] (http://placeholder.asd/) </li>
+  </ul>
