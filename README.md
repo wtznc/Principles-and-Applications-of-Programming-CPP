@@ -1,4 +1,4 @@
-# IS52028D: Principles and Applications of Programming - C++
+# Principles and Applications of Programming - C++
 This repository contains solutions for lab exercises.
 
 
