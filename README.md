@@ -2,7 +2,7 @@
 This repository contains solutions for lab exercises.
 
 
-![](https://img.shields.io/badge/language-C%2B%2B-green.svg) ![](https://img.shields.io/badge/framework-OpenFramework-blue.svg) 
+![](https://img.shields.io/badge/language-C%2B%2B-green.svg?style=flat-square) ![](https://img.shields.io/badge/framework-OpenFramework-blue.svg?style=flat-square) 
 
 
 **Table of Contents**
